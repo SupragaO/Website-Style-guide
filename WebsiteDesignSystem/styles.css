@@ -1,0 +1,132 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Roboto:wght@400;700&family=Tilt+Neon&display=swap");
+
+body {
+  font-family: "Tilt Neon", sans-serif;
+
+  margin: 0 10%;
+  background-color: #dcdcdc;
+}
+
+.container {
+  border: 2px solid #8a2be2;
+  padding: 10px;
+  margin: 10px auto;
+}
+
+.h2-text {
+  margin-bottom: 45px;
+}
+
+.color-container {
+  width: 100%;
+}
+
+.color-container {
+  display: block;
+}
+
+.color-panel {
+  display: inline-block;
+  text-align: center;
+  width: 33%;
+  margin: 10px auto;
+  padding-top: 10px;
+  min-height: 120px;
+  font-size: 24px;
+}
+
+.blue {
+  color: #fff;
+  background-color: #0000ff;
+}
+
+.chartreuse {
+  color: #fff;
+  background-color: #7fff00;
+}
+
+.blanchedAlmond {
+  color: #000;
+  background-color: #ffebcd;
+}
+
+.burlywood {
+  color: #fff;
+  background-color: #deb887;
+}
+
+.darkGreen {
+  color: #fff;
+  background-color: #006400;
+}
+
+.h1 {
+  color: #8a2be2;
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 42px;
+  margin: 0 auto;
+  margin: 35px 0;
+}
+
+.lato-h3 {
+  font-family: "Lato";
+  text-decoration: underline;
+}
+
+.roboto-h3 {
+  font-family: "Roboto";
+  text-decoration: underline;
+}
+
+.tiltneon-h3 {
+  font-family: "tilt Neon";
+  text-decoration: underline;
+}
+
+.lato {
+  font-family: "Lato";
+}
+
+.roboto {
+  font-family: "Roboto";
+}
+
+.tilt {
+  font-family: "Tilt Neon";
+}
+
+.normal-text {
+  margin-left: 5px;
+}
+
+.bold-text {
+  font-weight: bold;
+  margin-left: 5px;
+}
+
+.italic-text {
+  font-style: italic;
+  margin-left: 5px;
+}
+
+.first-two {
+  display: flex;
+}
+
+.typo1 {
+  margin-right: 80px;
+}
+
+.typo2 {
+  margin-left: 82px;
+}
+
+.typo3 {
+  margin-top: 60px;
+}
+
+.h2-3rdsec {
+  font-size: 32px;
+  font-weight: 700;
+}
